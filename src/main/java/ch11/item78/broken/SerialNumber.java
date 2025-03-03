@@ -1,4 +1,4 @@
-package ch11.broken;
+package ch11.item78.broken;
 
 import java.util.Collections;
 import java.util.HashSet;

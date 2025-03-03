@@ -1,4 +1,4 @@
-package ch11.fixed2;
+package ch11.item78.fixed2;
 
 import java.util.concurrent.TimeUnit;
 

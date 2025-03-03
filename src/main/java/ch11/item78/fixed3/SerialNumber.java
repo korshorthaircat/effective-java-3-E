@@ -1,4 +1,4 @@
-package ch11.fixed3;
+package ch11.item78.fixed3;
 
 import java.util.HashSet;
 import java.util.Set;
